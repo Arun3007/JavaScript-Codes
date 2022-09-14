@@ -1,0 +1,1 @@
+console.log("Practical 1 Completed");
